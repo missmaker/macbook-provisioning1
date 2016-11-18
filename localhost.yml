@@ -59,6 +59,7 @@
       - { name: Todoist }
       - { name: Xmind }
       - { name: Brackets }
+      - { name: sqlitebrowser }
 
   tasks:
     - name: homebrew の tap リポジトリを追加
